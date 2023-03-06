@@ -48,37 +48,42 @@ const songs = [
     },
     {
         id:"9",
-        songName: `Dilber <br><div class="subtitle">Satyameva Jayate</div>`,
+        songName: `GIANTS <br><div class="subtitle">True Damage (League of Legends)</div>`,
         poster: "img/9.jpg",
     },
     {
+        id:"101",
+        songName: `Notion <br><div class="subtitle"> The Rare Occasions </div>`,
+        poster: "img/101.jpg",
+    },
+    {
         id:"10",
-        songName: `Duniya <br><div class="subtitle">Luka Chuppi</div>`,
+        songName: `Homage <br><div class="subtitle">Mild High Club</div>`,
         poster: "img/10.jpg",
     },
     {
         id:"11",
-        songName: `Lagdi Lahore Di <br><div class="subtitle">Street Dancer 3D</div>`,
+        songName: `San Lucas <br><div class="subtitle">Kevin Kaarl</div>`,
         poster: "img/11.jpg",
     },
     {
         id:"12",
-        songName: `Putt Jatt Da <br><div class="subtitle">Putt Jatt Da</div>`,
+        songName: `Piel De Canela <br><div class="subtitle">Cuco</div>`,
         poster: "img/12.jpg",
     },
     {
         id:"13",
-        songName: `Baarishein <br><div class="subtitle">Atif Aslam</div>`,
+        songName: `Alguien Como Tú <br><div class="subtitle">Jósean Log</div>`,
         poster: "img/13.jpg",
     },
     {
         id:"14",
-        songName: `Vaaste <br><div class="subtitle">Dhvani Bhanushali</div>`,
+        songName: `Crystal Dolphin<br><div class="subtitle">Engelwood</div>`,
         poster: "img/14.jpg",
     },
     {
         id:"15",
-        songName: `Lut Gaye <br><div class="subtitle">Jubin Nautiyal</div>`,
+        songName: `I Was Made <br> For Lovin' You <br><div class="subtitle">KISS</div>`,
         poster: "img/15.jpg",
     },
 ]
